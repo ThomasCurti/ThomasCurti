@@ -27,7 +27,7 @@ The game is in 3D, fully animated and with sound.
 If you want to test this game, you will first have to correct configurations set to NULL. 
 
 ### mti_p21_pokebattle
-This project I made almost alone is an Android mobile application made in kotlin that allows you to visualize all existing Pokemons, their statistics, their weaknesses, and their strengths. It also allows you to fight in 3 vs 3 against an AI.
+This project I made almost alone is an Android mobile application made in Kotlin that allows you to visualize all existing Pokemons, their statistics, their weaknesses, and their strengths. It also allows you to fight in 3 vs 3 against an AI.
 To make sure this application is always up to date, it collects all its data from https://pokeapi.co/.
 
 ### ExplosiveCube
@@ -40,12 +40,12 @@ This project is a REST Spring Boot API. This API allows any developer of *rpg ga
 This project helps to manage data transfer between the game and the database that saves the game state. This API is easily maintainable and improvable.
 
 ### SOCRA
-This project was made during EPITA's Software Craftmanship course. The goal was to create a REST API in java to manage LinkedIN accounts. The goal of this project was to create a basic API that  LinkedIN could use.
+This project was made during EPITA's Software Craftmanship course. The goal was to create a REST API in Java to manage LinkedIn accounts. The goal of this project was to create a basic API that  LinkedIn could use.
 We took this opportunity to implement a system of e-mail delivery, data export as an excel file, tests in Cucumber etc.
 
 ### Hashcode2018
 This project was created during the Google HashCode 2018.
-To challenge us, this project was entirely made in C. It did not help us to rank high that year, but it taught us a lot of very useful things for the *EPITA piscine*.
+To challenge us, this project was entirely made in C. It did not help us to rank high that year, but it taught us useful things for the *EPITA piscine*.
 Nevertheless, we were able to improve our rank during the Google HashCode 2019 which we made in C++ to challenge ourselves and during the Google HashCode 2020 which we made in Python.
 
 *EPITA Piscine* :  https://www.youtube.com/watch?v=eN_zSxwi57c
