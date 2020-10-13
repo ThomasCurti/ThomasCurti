@@ -4,10 +4,10 @@ This document explains the purpose of all project in this GitHub for all **non-c
 ### Easy News
 This project is the 2nd largest project that I have ever completed. This is a one-year project (still under development) in which we try to combat fake news and misinformation of the youngest.
 This project brings together:
-•	A website in *ReactJS* which displays articles about global disaster news
-•	A scrapper of data in *Python*
-•	A Backend (API REST) in *C*
-•	A Unity game in *C#* for young people to play while learning.
+*	A website in *ReactJS* which displays articles about global disaster news
+*	A scrapper of data in *Python*
+* A Backend (API REST) in *C*
+*	A Unity game in *C#* for young people to play while learning.
 The game is updated on the collaboration tool built into Unity. Thus, it is not always up to date on this git. Indeed, git handles very poorly games unlike perforce.
 
 ### Gestionary
