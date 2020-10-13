@@ -2,7 +2,7 @@
 ### To introduce this document
 This document explains the purpose of all projects in this GitHub for all **non-confidential** projects that I have achieved. Some of them were made in groups.
 ### Easy News
-This project is the 2nd largest project that I have ever completed. This is a one-year project (still under development) in which we try to combat fake news and misinformation of the youngest.
+This project is the 2nd largest project that I have ever made. This is a one-year project (still under development) in which we try to combat fake news and misinformation of the youngest.
 This project brings together:
 *	A website in *ReactJS* which displays articles about global disaster news
 *	A scrapper of data in *Python*
