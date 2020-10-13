@@ -20,7 +20,7 @@ This project is deployable via Docker or IIS.
 
 ### MTI-FilRouge
 This project is a Unity game created from an image of the May 68’s french student strikes. The goal was to make a game in 1 week from this image. Our teachers wanted to test our ability to adapt and our imagination.
-In one week, we made a complete game in which you can control police squads and must stop the protesters before they escape in Paris’ subways or before they knock out all your police officers.
+In one week, we made a complete game in which you can control police squads and must stop the protesters before they escape in Paris subways or before they knock out all your police officers.
 The game is in 3D, fully animated and with sound.
 
 **/!\\ Disclaimer** The game, being stored on Git, may not directly work due to a configuration problem, indeed, Git *deletes* some configuration of the game when someone clones it. The project was carried out via Unity's collaboration system and was subsequently stored on GitHub.
