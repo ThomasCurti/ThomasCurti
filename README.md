@@ -27,7 +27,7 @@ The game is in 3D, fully animated and with sound.
 If you want to test this game, you will first have to correct configurations set to NULL. 
 
 ### mti_p21_pokebattle
-This project made almost alone is an Android mobile application made in kotlin that allows you to visualize all existing Pokemons, their statistics, their weaknesses, and their strengths. It also allows you to fight in 3 vs 3 against an AI.
+This project I made almost alone is an Android mobile application made in kotlin that allows you to visualize all existing Pokemons, their statistics, their weaknesses, and their strengths. It also allows you to fight in 3 vs 3 against an AI.
 To make sure this application is always up to date, it collects all its data from https://pokeapi.co/.
 
 ### ExplosiveCube
