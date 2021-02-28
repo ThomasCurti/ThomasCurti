@@ -2,14 +2,23 @@
 ### To introduce this document
 This document explains the purpose of all projects in this GitHub for all **non-confidential** projects that I have achieved. Some of them were made in groups.
 ### Easy News
-This project is the 2nd largest project that I have ever made. This is a one-year project (still under development) in which we try to combat fake news and misinformation of the youngest.
+This project is the 2nd largest project that I have ever made. This is a one-year project in which we try to combat fake news and misinformation of the youngest.
 This project brings together:
 *	A website in *ReactJS* which displays articles about global disaster news
 *	A scrapper of data in *Python*
-* A Backend (API REST) in *C#*
+* A Backend (API REST) in *C# .NET Core*
 *	A Unity game in *C#* for young people to play while learning.
 
 The game is updated on the collaboration tool built into Unity. Thus, it is not always up to date on this git. Indeed, git handles very poorly games unlike perforce.
+
+### PFEE Mindmaps
+https://github.com/Clementdds/PFEE-Mindmaps
+This project is the 3rd largest project that I made. This is a 8 months project in which we can visualize any mindmaps and we can share them to other users or publicly.
+This project brings togehter:
+*	A website in *ReactJS*
+* A Backend (API REST) in *Java Spring*
+
+This project is easily deployable on AWS cloud using Terraform or docker
 
 ### Gestionary
 Website made in C#, ASP .NET Core, to manage inventory and employees of a store.
