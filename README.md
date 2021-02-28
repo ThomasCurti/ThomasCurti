@@ -13,7 +13,8 @@ The game is updated on the collaboration tool built into Unity. Thus, it is not 
 
 ### PFEE Mindmaps
 https://github.com/Clementdds/PFEE-Mindmaps
-This project is the 3rd largest project that I made. This is a 8 months project in which we can visualize any mindmaps and we can share them to other users or publicly.
+
+This project, made in group of 4 people, is the 3rd largest project that I made. This is a 8 months project in which we can visualize any mindmaps and we can share them to other users or publicly.
 This project brings togehter:
 *	A website in *ReactJS*
 * A Backend (API REST) in *Java Spring*
