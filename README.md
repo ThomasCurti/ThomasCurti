@@ -34,6 +34,7 @@ To make sure this application is always up to date, it collects all its data fro
 This project is a personal project that I carry out alone. It is still under development. 
 It is a mobile game in which the player must survive as long as possible in space and must avoid rockets, mines while recovering gems to increase his score.
 Many features are present in this project as an achievement system, a manger of different languages.
+Edit: This Game is on the Google Play Store. Thus I won't put the source code on public.
 
 ### rpg
 This project is a REST Spring Boot API. This API allows any developer of *rpg game* to manage their characters, skills, weapons, mounts etc.
